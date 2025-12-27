@@ -1,5 +1,6 @@
 # Coupon Service
 [![Build Coupon Service](https://github.com/Shalaka2021/couponservice/actions/workflows/main.yml/badge.svg)](https://github.com/Shalaka2021/couponservice/actions/workflows/main.yml)
+
 A Spring Boot microservice for managing coupons.
 Built using Spring Boot, JPA, MySQL, and Maven.
 
